@@ -32,7 +32,7 @@ body {
 }
 
 .card-img {
-  background-image: url("images/illustration-article.svg");
+  background-image: url("./images/illustration-article.svg");
   background-size: cover;
   height: 200px;
   width: 100%;
