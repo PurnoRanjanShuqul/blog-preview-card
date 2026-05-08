@@ -42,7 +42,7 @@ This project is a clean card UI design featuring:
 
 ## Live Demo
 
-You can add your GitHub Pages link here later.
+(https://purnoranjanshuqul.github.io/blog-preview-card/)
 
 ## Author
 
